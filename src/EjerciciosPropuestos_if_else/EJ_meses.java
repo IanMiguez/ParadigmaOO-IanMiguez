@@ -1,4 +1,4 @@
-package EjerciciosPropuestos;
+package EjerciciosPropuestos_if_else;
 
 import java.util.Scanner;
 
