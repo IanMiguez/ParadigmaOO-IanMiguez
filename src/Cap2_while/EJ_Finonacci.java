@@ -1,4 +1,4 @@
-package EjerciciosPropuestos_while;
+package Cap2_while;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package EjerciciosPropuestos_do_while;
+package Cap3_do_while;
 
 import java.util.Locale;
 import java.util.Scanner;

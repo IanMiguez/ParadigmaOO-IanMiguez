@@ -1,4 +1,4 @@
-package EjerciciosPropuestos_if_else;
+package Cap1_if_else;
 
 import java.util.Scanner;
 
