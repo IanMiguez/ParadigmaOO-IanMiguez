@@ -1,0 +1,23 @@
+package Cap5_arrays;
+
+public class EjMayorYMenor {
+    public static void main(String[] args) {
+        int[] numeros = {5, 12, 3, 8, 20, 1, 15};
+        int mayor = numeros[0];
+        int menor = numeros[0];
+
+        for (int i = 1; i < numeros.length; i++) {
+            if (numeros[i] > mayor) {
+                mayor = numeros[i];
+            }
+            if (numeros[i] < menor) {
+                menor = numeros[i];
+            }
+        }
+
+        System.out.println("El número mayor es: " + mayor);
+        System.out.println("El número menor es: " + menor);
+    }
+
+}
+
